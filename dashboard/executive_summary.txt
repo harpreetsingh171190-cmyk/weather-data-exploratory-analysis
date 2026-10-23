@@ -1,0 +1,10 @@
+ADVANCED WEATHER DATA ANALYSIS — HARPREET SINGH
+
+Dataset contains 1,461 rows and 6 columns.
+Locations represented: Not available in this dataset.
+Date coverage: 2012-01-01 to 2015-12-31.
+Missing cells: 0 of 8,766 (0.00%).
+Most frequent weather category: rain (641 records; 43.87% of rows).
+Maximum temperature: mean 16.44 °C; median 15.60 °C; range -1.60 to 35.60 °C.
+Minimum temperature: mean 8.23 °C; median 8.30 °C; range -7.10 to 18.30 °C.
+Strongest absolute pairwise Pearson correlation: temp_max vs temp_min (r = 0.876).
