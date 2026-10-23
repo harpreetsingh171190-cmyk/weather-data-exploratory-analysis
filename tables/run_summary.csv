@@ -1,0 +1,10 @@
+,value
+author,HARPREET SINGH
+source_file,/content/data/seattle_weather.csv
+rows_after_cleaning,1461
+columns,6
+valid_dates,1461
+date_min,2012-01-01 00:00:00
+date_max,2015-12-31 00:00:00
+total_missing_cells,0
+locations,Not available in dataset

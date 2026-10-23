@@ -1,0 +1,7 @@
+,missing_count,missing_pct,dtype
+date,0,0.0,datetime64[ns]
+precipitation,0,0.0,float64
+temp_max,0,0.0,float64
+temp_min,0,0.0,float64
+wind,0,0.0,float64
+weather,0,0.0,object
